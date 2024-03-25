@@ -43,10 +43,36 @@ Este é um passo a passo de como ultilizar o Azurte ML para criar um modelo de p
 ![image](https://i.imgur.com/QXi243k.png)
 10. Não muda nada, clicar em [Criar]
 ![image](https://i.imgur.com/d9cGvxF.png)
-![image]()
-![image]()
-![image]()
-![image]()
+11. Agora selecionar os dados que criamos e clicar em avançar
+![image](https://i.imgur.com/6r7vT62.png)
+12. Na Coluna de Destino selecionar a opção: Rentals (Integer)
+![image](https://i.imgur.com/vc5AOgC.png)
+13. Em seguida clicar na engrenagem logo abaixo para abrir as configurçãoes adicionais e preencher como está na imagem abaixo
+![image](https://i.imgur.com/LvH9MeG.png)
+14. Em Limites preencher assim
+![image](https://i.imgur.com/hBPRbzG.png)
+15. Em Validar e Testar preencher assim e clicar em avançar
+![image](https://i.imgur.com/Pdy4Np7.png)
+16. Em Computação deixar assim e avançar
+![image](https://i.imgur.com/7YsUWGm.png)
+17. Em Examinar, clicar em Enviar Trabalho de Treinamento
+![image](https://i.imgur.com/wfoLtdc.png)
+18. Aguardar a execução, pode demorar em torno de 10 minutos
+![image](https://i.imgur.com/gnLLtd9.png)
+
+# Finalizar
+1. Após o Status estiver concluído, no Melhor Resumo de Modelo clicar no link do nome do algoritimo
+![image](https://i.imgur.com/Wta93es.png)
+2. Clicar em Implantar e escolher Serviço WEB
+![image](https://i.imgur.com/SOEzXXW.png)
+3. Acrescente esses dados e clique em implantar
+![image](https://i.imgur.com/4WRySDS.png)
+4. Depois que a execução tiver exito clique no link abaixo de Implantar status
+![image](https://i.imgur.com/3n7Q5ww.png)
+5. Em testar, coloque as informaçoes do nodigo par ter o resultado.
+![image](https://i.imgur.com/cGKgjbg.png)
+
+
 
 
 
